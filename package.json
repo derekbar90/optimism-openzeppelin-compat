@@ -1,6 +1,6 @@
 {
   "name": "@thesatoshicompany/optimism-openzeppelin-compat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "OpenZeppelin patch module for Optimism",
   "main": "index.js",
   "scripts": {
