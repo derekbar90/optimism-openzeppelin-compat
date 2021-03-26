@@ -1,5 +1,5 @@
 {
-  "name": "optimism-openzepplin-compat",
+  "name": "@thesatoshicompany/optimism-openzepplin-compat",
   "version": "1.0.0",
   "description": "OpenZepplin patch module for Optimism",
   "main": "index.js",
