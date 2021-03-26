@@ -1,10 +1,9 @@
 {
   "name": "@thesatoshicompany/optimism-openzeppelin-compat",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "OpenZeppelin patch module for Optimism",
   "main": "index.js",
   "scripts": {
-    "postinstall": "patch-package",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +17,6 @@
   },
   "homepage": "https://github.com/derekbar90/optimism-openzeppelin-compat#readme",
   "dependencies": {
-    "@openzeppelin/contracts": "^3.4.1",
     "patch-package": "^6.4.7"
   }
 }
