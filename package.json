@@ -1,7 +1,7 @@
 {
-  "name": "@thesatoshicompany/optimism-openzepplin-compat",
+  "name": "@thesatoshicompany/optimism-openzeppelin-compat",
   "version": "1.0.0",
-  "description": "OpenZepplin patch module for Optimism",
+  "description": "OpenZeppelin patch module for Optimism",
   "main": "index.js",
   "scripts": {
     "postinstall": "patch-package",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/derekbar90/optimism-openzepplin-compat.git"
+    "url": "git+https://github.com/derekbar90/optimism-openzeppelin-compat.git"
   },
   "author": "Derek Barrera (derekbarrera@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/derekbar90/optimism-openzepplin-compat/issues"
+    "url": "https://github.com/derekbar90/optimism-openzeppelin-compat/issues"
   },
-  "homepage": "https://github.com/derekbar90/optimism-openzepplin-compat#readme",
+  "homepage": "https://github.com/derekbar90/optimism-openzeppelin-compat#readme",
   "dependencies": {
     "patch-package": "^6.4.7"
   }
