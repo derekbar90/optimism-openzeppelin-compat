@@ -1,0 +1,23 @@
+{
+  "name": "optimism-openzepplin-compat",
+  "version": "1.0.0",
+  "description": "OpenZepplin patch module for Optimism",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "patch-package",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekbar90/optimism-openzepplin-compat.git"
+  },
+  "author": "Derek Barrera (derekbarrera@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekbar90/optimism-openzepplin-compat/issues"
+  },
+  "homepage": "https://github.com/derekbar90/optimism-openzepplin-compat#readme",
+  "dependencies": {
+    "patch-package": "^6.4.7"
+  }
+}
