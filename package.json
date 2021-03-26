@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/derekbar90/optimism-openzeppelin-compat#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^3.4.1",
     "patch-package": "^6.4.7"
   }
 }
