@@ -15,4 +15,4 @@ npm i --save @thesatoshicompany/optimism-openzeppelin-compat
 v3.4.1
 
 ## Have an additional patch which should be included?
-Provide a PR and a review will happen to that it can be included.
+Provide a PR and a review will happen so that it can be included.
